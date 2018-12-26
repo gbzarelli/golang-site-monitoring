@@ -14,8 +14,8 @@ import (
 const Version = "0.0.1-beta"
 const QtdExecutions = 5
 const DelaySeconds = 10
-const PathFileSites = "/sdk/repositorios/go/siteMonitoring/src/sites.txt"
-const PathLogs = "/sdk/repositorios/go/siteMonitoring/logs/"
+const PathFileSites = "sites.txt"
+const PathLogs = "logs/"
 
 func main() {
 	for {
